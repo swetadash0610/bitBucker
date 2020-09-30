@@ -8,7 +8,7 @@ The project aims at tracking personal finance of our users by our services , thr
 
 `Contributions for Hacktoberfest 2020 are welcome 🎉🎉`
 
-Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+In general, we follow the "fork-and-pull" Git workflow.
 
  1. **Fork** the repo on GitHub
  2. **Clone** the projet to your own machine
