@@ -11,7 +11,7 @@ The project aims at tracking personal finance of our users by our services , thr
 Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
  1. **Fork** the repo on GitHub
- 2. **Clone** the project to your own machine
- 3. **Commit** changes to your own branch
- 4. **Push** your work back up to your fork
- 5. Submit a **Pull request** so that I can review your changes
+ 2. **Clone** the projet to your own machine
+ 3. **Commit** changs to your own branch
+ 4. **Push** your work back up to your frk
+ 5. Submt a **Pull request** so that I can reiew your changes
